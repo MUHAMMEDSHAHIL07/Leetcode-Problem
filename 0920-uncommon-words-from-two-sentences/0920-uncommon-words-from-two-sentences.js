@@ -10,7 +10,8 @@ var uncommonFromSentences = function(s1, s2) {
     let join = arr1.concat(arr2)
     let words = join.filter((word)=>{
     return join.indexOf(word)==join.lastIndexOf(word)
-
+   
   })
-      return words
+    return words 
+
 };
