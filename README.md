@@ -21,13 +21,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0920-uncommon-words-from-two-sentences](https://github.com/MUHAMMEDSHAHIL07/Leetcode-Problem/tree/master/0920-uncommon-words-from-two-sentences) |
 | [3379-score-of-a-string](https://github.com/MUHAMMEDSHAHIL07/Leetcode-Problem/tree/master/3379-score-of-a-string) |
 ## Hash Table
 |  |
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/MUHAMMEDSHAHIL07/Leetcode-Problem/tree/master/0349-intersection-of-two-arrays) |
+| [0920-uncommon-words-from-two-sentences](https://github.com/MUHAMMEDSHAHIL07/Leetcode-Problem/tree/master/0920-uncommon-words-from-two-sentences) |
 ## Binary Search
 |  |
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/MUHAMMEDSHAHIL07/Leetcode-Problem/tree/master/0349-intersection-of-two-arrays) |
+## Counting
+|  |
+| ------- |
+| [0920-uncommon-words-from-two-sentences](https://github.com/MUHAMMEDSHAHIL07/Leetcode-Problem/tree/master/0920-uncommon-words-from-two-sentences) |
 <!---LeetCode Topics End-->
