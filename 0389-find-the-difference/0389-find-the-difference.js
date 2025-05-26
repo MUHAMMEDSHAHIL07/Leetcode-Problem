@@ -10,7 +10,7 @@ var findTheDifference = function(s, t) {
         var c = a.indexOf(b)
         if(c===-1){
             console.log(b)
-            break;
+            break
         }
         else{
            a.splice(c, 1);
