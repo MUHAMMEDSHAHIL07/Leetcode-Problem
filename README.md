@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0027-remove-element](https://github.com/MUHAMMEDSHAHIL07/Leetcode-Problem/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/MUHAMMEDSHAHIL07/Leetcode-Problem/tree/master/0088-merge-sorted-array) |
+| [0137-single-number-ii](https://github.com/MUHAMMEDSHAHIL07/Leetcode-Problem/tree/master/0137-single-number-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/MUHAMMEDSHAHIL07/Leetcode-Problem/tree/master/0349-intersection-of-two-arrays) |
 ## Two Pointers
 |  |
@@ -45,5 +46,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0137-single-number-ii](https://github.com/MUHAMMEDSHAHIL07/Leetcode-Problem/tree/master/0137-single-number-ii) |
 | [0389-find-the-difference](https://github.com/MUHAMMEDSHAHIL07/Leetcode-Problem/tree/master/0389-find-the-difference) |
 <!---LeetCode Topics End-->
