@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/MUHAMMEDSHAHIL07/Leetcode-Problem/tree/master/0389-find-the-difference) |
 | [0742-to-lower-case](https://github.com/MUHAMMEDSHAHIL07/Leetcode-Problem/tree/master/0742-to-lower-case) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/MUHAMMEDSHAHIL07/Leetcode-Problem/tree/master/0920-uncommon-words-from-two-sentences) |
+| [1205-defanging-an-ip-address](https://github.com/MUHAMMEDSHAHIL07/Leetcode-Problem/tree/master/1205-defanging-an-ip-address) |
 | [3379-score-of-a-string](https://github.com/MUHAMMEDSHAHIL07/Leetcode-Problem/tree/master/3379-score-of-a-string) |
 ## Hash Table
 |  |
