@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/MUHAMMEDSHAHIL07/Leetcode-Problem/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/MUHAMMEDSHAHIL07/Leetcode-Problem/tree/master/0088-merge-sorted-array) |
 | [0349-intersection-of-two-arrays](https://github.com/MUHAMMEDSHAHIL07/Leetcode-Problem/tree/master/0349-intersection-of-two-arrays) |
+| [1894-merge-strings-alternately](https://github.com/MUHAMMEDSHAHIL07/Leetcode-Problem/tree/master/1894-merge-strings-alternately) |
 ## Sorting
 |  |
 | ------- |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0742-to-lower-case](https://github.com/MUHAMMEDSHAHIL07/Leetcode-Problem/tree/master/0742-to-lower-case) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/MUHAMMEDSHAHIL07/Leetcode-Problem/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1205-defanging-an-ip-address](https://github.com/MUHAMMEDSHAHIL07/Leetcode-Problem/tree/master/1205-defanging-an-ip-address) |
+| [1894-merge-strings-alternately](https://github.com/MUHAMMEDSHAHIL07/Leetcode-Problem/tree/master/1894-merge-strings-alternately) |
 | [3379-score-of-a-string](https://github.com/MUHAMMEDSHAHIL07/Leetcode-Problem/tree/master/3379-score-of-a-string) |
 ## Hash Table
 |  |
