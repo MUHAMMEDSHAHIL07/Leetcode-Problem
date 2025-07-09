@@ -51,4 +51,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0137-single-number-ii](https://github.com/MUHAMMEDSHAHIL07/Leetcode-Problem/tree/master/0137-single-number-ii) |
 | [0389-find-the-difference](https://github.com/MUHAMMEDSHAHIL07/Leetcode-Problem/tree/master/0389-find-the-difference) |
+## Math
+|  |
+| ------- |
+| [0007-reverse-integer](https://github.com/MUHAMMEDSHAHIL07/Leetcode-Problem/tree/master/0007-reverse-integer) |
 <!---LeetCode Topics End-->
