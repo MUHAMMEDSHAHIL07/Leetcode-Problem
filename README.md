@@ -59,10 +59,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/MUHAMMEDSHAHIL07/Leetcode-Problem/tree/master/0007-reverse-integer) |
 | [0013-roman-to-integer](https://github.com/MUHAMMEDSHAHIL07/Leetcode-Problem/tree/master/0013-roman-to-integer) |
+| [0258-add-digits](https://github.com/MUHAMMEDSHAHIL07/Leetcode-Problem/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/MUHAMMEDSHAHIL07/Leetcode-Problem/tree/master/0412-fizz-buzz) |
 | [1630-count-odd-numbers-in-an-interval-range](https://github.com/MUHAMMEDSHAHIL07/Leetcode-Problem/tree/master/1630-count-odd-numbers-in-an-interval-range) |
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/MUHAMMEDSHAHIL07/Leetcode-Problem/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/MUHAMMEDSHAHIL07/Leetcode-Problem/tree/master/0412-fizz-buzz) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/MUHAMMEDSHAHIL07/Leetcode-Problem/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
