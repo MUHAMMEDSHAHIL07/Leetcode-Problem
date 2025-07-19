@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/MUHAMMEDSHAHIL07/Leetcode-Problem/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/MUHAMMEDSHAHIL07/Leetcode-Problem/tree/master/0088-merge-sorted-array) |
 | [0137-single-number-ii](https://github.com/MUHAMMEDSHAHIL07/Leetcode-Problem/tree/master/0137-single-number-ii) |
+| [0169-majority-element](https://github.com/MUHAMMEDSHAHIL07/Leetcode-Problem/tree/master/0169-majority-element) |
 | [0349-intersection-of-two-arrays](https://github.com/MUHAMMEDSHAHIL07/Leetcode-Problem/tree/master/0349-intersection-of-two-arrays) |
 ## Two Pointers
 |  |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/MUHAMMEDSHAHIL07/Leetcode-Problem/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/MUHAMMEDSHAHIL07/Leetcode-Problem/tree/master/0169-majority-element) |
 | [0349-intersection-of-two-arrays](https://github.com/MUHAMMEDSHAHIL07/Leetcode-Problem/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/MUHAMMEDSHAHIL07/Leetcode-Problem/tree/master/0389-find-the-difference) |
 ## String
@@ -38,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/MUHAMMEDSHAHIL07/Leetcode-Problem/tree/master/0013-roman-to-integer) |
+| [0169-majority-element](https://github.com/MUHAMMEDSHAHIL07/Leetcode-Problem/tree/master/0169-majority-element) |
 | [0349-intersection-of-two-arrays](https://github.com/MUHAMMEDSHAHIL07/Leetcode-Problem/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/MUHAMMEDSHAHIL07/Leetcode-Problem/tree/master/0389-find-the-difference) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/MUHAMMEDSHAHIL07/Leetcode-Problem/tree/master/0920-uncommon-words-from-two-sentences) |
@@ -48,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/MUHAMMEDSHAHIL07/Leetcode-Problem/tree/master/0169-majority-element) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/MUHAMMEDSHAHIL07/Leetcode-Problem/tree/master/0920-uncommon-words-from-two-sentences) |
 ## Bit Manipulation
 |  |
@@ -71,4 +75,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/MUHAMMEDSHAHIL07/Leetcode-Problem/tree/master/0258-add-digits) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/MUHAMMEDSHAHIL07/Leetcode-Problem/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
