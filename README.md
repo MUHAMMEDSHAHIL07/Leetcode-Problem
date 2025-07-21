@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/MUHAMMEDSHAHIL07/Leetcode-Problem/tree/master/0013-roman-to-integer) |
 | [0231-power-of-two](https://github.com/MUHAMMEDSHAHIL07/Leetcode-Problem/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/MUHAMMEDSHAHIL07/Leetcode-Problem/tree/master/0258-add-digits) |
+| [0326-power-of-three](https://github.com/MUHAMMEDSHAHIL07/Leetcode-Problem/tree/master/0326-power-of-three) |
 | [0412-fizz-buzz](https://github.com/MUHAMMEDSHAHIL07/Leetcode-Problem/tree/master/0412-fizz-buzz) |
 | [1630-count-odd-numbers-in-an-interval-range](https://github.com/MUHAMMEDSHAHIL07/Leetcode-Problem/tree/master/1630-count-odd-numbers-in-an-interval-range) |
 ## Simulation
@@ -85,4 +86,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/MUHAMMEDSHAHIL07/Leetcode-Problem/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/MUHAMMEDSHAHIL07/Leetcode-Problem/tree/master/0326-power-of-three) |
 <!---LeetCode Topics End-->
