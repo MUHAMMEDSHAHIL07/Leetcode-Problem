@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0027-remove-element](https://github.com/MUHAMMEDSHAHIL07/Leetcode-Problem/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/MUHAMMEDSHAHIL07/Leetcode-Problem/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/MUHAMMEDSHAHIL07/Leetcode-Problem/tree/master/0125-valid-palindrome) |
 | [0349-intersection-of-two-arrays](https://github.com/MUHAMMEDSHAHIL07/Leetcode-Problem/tree/master/0349-intersection-of-two-arrays) |
 | [1894-merge-strings-alternately](https://github.com/MUHAMMEDSHAHIL07/Leetcode-Problem/tree/master/1894-merge-strings-alternately) |
 ## Sorting
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/MUHAMMEDSHAHIL07/Leetcode-Problem/tree/master/0013-roman-to-integer) |
+| [0125-valid-palindrome](https://github.com/MUHAMMEDSHAHIL07/Leetcode-Problem/tree/master/0125-valid-palindrome) |
 | [0389-find-the-difference](https://github.com/MUHAMMEDSHAHIL07/Leetcode-Problem/tree/master/0389-find-the-difference) |
 | [0412-fizz-buzz](https://github.com/MUHAMMEDSHAHIL07/Leetcode-Problem/tree/master/0412-fizz-buzz) |
 | [0742-to-lower-case](https://github.com/MUHAMMEDSHAHIL07/Leetcode-Problem/tree/master/0742-to-lower-case) |
